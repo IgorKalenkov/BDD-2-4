@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nicev57tcegi2tbp?svg=true)](https://ci.appveyor.com/project/IgorKalenkov/bdd-2-4)
